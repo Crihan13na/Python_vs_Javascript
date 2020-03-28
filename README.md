@@ -1,1 +1,1 @@
-# Everyone Do Activity
+# Difference between Python and Javascript
